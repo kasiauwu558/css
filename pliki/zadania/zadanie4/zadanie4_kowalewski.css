@@ -1,0 +1,5 @@
+/* Adam Kowalewski 10.12.2024 */
+table,td  {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
