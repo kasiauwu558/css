@@ -1,0 +1,7 @@
+/* Adam Kowalewski 30.01.2025 */
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 5px;;
+}
